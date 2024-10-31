@@ -29,7 +29,7 @@
     {
       "name": "Rethinking and improving robustness of convolutional neural networks: a shapley value-based approach in frequency domain",
       "authors": "Yiting Chen, Qibing Ren, Junchi Yan",
-      "publisher": "NeurIPS",
+      "publisher": "Advances in Neural Information Processing Systems (NeurIPS)",
       "releaseDate": "2022",
       "url": "https://proceedings.neurips.cc/paper_files/paper/2022/file/022abe84083d235f7572ca5cba24c51c-Paper-Conference.pdf",
       "summary": "We investigate how deep neural networks(DNNs) utilize different frequency components and propose a method to improve the adversarial robustness of DNNs."
@@ -37,7 +37,7 @@
     {
       "name": "Going Beyond Neural Network Feature Similarity: The Network Feature Complexity and Its Interpretation Using Category Theory",
       "authors": "Yiting Chen, Zhanpeng Zhou, Junchi Yan",
-      "publisher": "ICLR",
+      "publisher": "International Conference on Learning Representations (ICLR)",
       "releaseDate": "2024",
       "url": "https://openreview.net/forum?id=4bSQ3lsfEV",
       "summary": "We define functional equivalent feature from a category theory perspective and further define and measure feature complexity of different deep neural networks."
@@ -45,14 +45,14 @@
     {
       "name": "Unveiling The Matthew Effect Across Channels: Assessing Layer Width Sufficiency via Weight Norm Variance",
       "authors": "Yiting Chen, Jiazi Bu, Junchi Yan",
-      "publisher": "NeurIPS",
+      "publisher": "Advances in Neural Information Processing Systems (NeurIPS)",
       "releaseDate": "2024",
       "summary": "We show the Matthew effect exist between channels in deep neural networks and provide a new metric to assess layer width sufficiency."
     },
     {
       "name": "What Rotary Position Embedding Can Tell Us: Identifying Query and Key Weights Corresponding to Basic Syntactic or High-level Semantic Information",
       "authors": "Yiting Chen, Junchi Yan",
-      "publisher": "NeurIPS",
+      "publisher": "Advances in Neural Information Processing Systems (NeurIPS)",
       "releaseDate": "2024",
       "summary": "We show that for the widely used Rotary Position Embedding(RoPE), the angle of weight vector pairs for the query and key affects how the token position information is processed. We further propose a new method that could both reduce the fine-tuning parameter and boost the performance after fine-tuning."
     }

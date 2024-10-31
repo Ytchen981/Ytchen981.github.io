@@ -10,7 +10,7 @@ subtitle: #>
 
 profile:
   align: right
-  image: victory_yes.png
+  image: myself.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Dongchuan Rd. No. 800</p>

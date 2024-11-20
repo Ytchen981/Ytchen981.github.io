@@ -21,7 +21,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a fourth-year Ph.D. candidate in Computer Science at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/). I am very fortunate to be advised by [Prof. Junchi Yan](https://thinklab.sjtu.edu.cn/). Prior than that, I received my bachelor degree in Computer Science and Engineering at Shanghai Jiao Tong University.
+I am a fourth-year Ph.D. candidate in Computer Science at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/). I am very fortunate to be advised by [Prof. Junchi Yan](https://thinklab.sjtu.edu.cn/). Prior to that, I received my bachelor degree in Computer Science and Engineering at Shanghai Jiao Tong University.
 
 My research interests lie in exploring the underlying mechanisms of deep learning to uncover the fundamental principles that govern model behavior. I am particularly focused on promoting the efficiency of deep neural networks by developing innovative methodologies that enhance interpretability and reduce computational costs. Through a phenomenon-driven approach, I aim to bridge the gap between theoretical insights and practical applications, ultimately contributing to the advancement of robust and efficient AI systems.
 

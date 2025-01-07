@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Two papers are accepted by ICLR2023!
+Two papers are accepted by ICLR2023! Congrats to Qitian and Runzhong!

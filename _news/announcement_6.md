@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper is accepted by ICML2024!
+One paper is accepted by ICML2024! Congrats to Tianyi!

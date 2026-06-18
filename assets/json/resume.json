@@ -27,6 +27,14 @@
   ],
   "publications": [
     {
+      "name": "IO-Adam: Rethinking Memory-Efficient Adaptive Optimizers from Gradient Computation",
+      "authors": "Yiting Chen, Zongwei Huo, Junchi Yan",
+      "publisher": "International Conference on Machine Learning (ICML)",
+      "releaseDate": "2026",
+      "url": "https://openreview.net/forum?id=z0m3EhzhOH",
+      "summary": "We rethink memory-efficient adaptive optimizers from the perspective of gradient computation."
+    },
+    {
       "name": "Rethinking and improving robustness of convolutional neural networks: a shapley value-based approach in frequency domain",
       "authors": "Yiting Chen, Qibing Ren, Junchi Yan",
       "publisher": "Advances in Neural Information Processing Systems (NeurIPS)",
